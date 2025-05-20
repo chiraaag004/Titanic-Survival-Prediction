@@ -18,7 +18,6 @@ This project applies machine learning techniques to predict whether a passenger 
 - Pandas, NumPy
 - Seaborn, Matplotlib
 - Scikit-learn
-- XGBoost
 
 ## Folder Structure
 
